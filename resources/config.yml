@@ -1,0 +1,22 @@
+#Tombstoneplugin by HiroTeam-Willy | Plugin de Tombstone par la HiroTeam-Willy
+#██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
+#██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
+#██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+#description:
+#ENG: This plugin spawn a tombstone when a player dies
+#FRA: Ce plugin fait spawn une tombe quand un joueur meurt
+
+
+#ENG: time in minute to despawn the tombstone
+#FRA: temps en minute pour despawn la tombe
+despawnTime: 60
+
+
+#ENG: world on which the plugin will be activated
+#FRA: monde sur lesquels le plugin sera activé
+#worlds: "*"
+#worlds: "Faction, Survival, Arena"
+worlds: "*"

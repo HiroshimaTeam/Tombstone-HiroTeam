@@ -1,0 +1,6 @@
+name: Tombstone-HiroTeam
+author: HiroTeam-Willy
+version: 1.0.0
+api: 3.0.0
+main: HiroTeam\Tombstone\TombstoneMain
+website: https://github.com/HiroshimaTeam
