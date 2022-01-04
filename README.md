@@ -1,17 +1,18 @@
-# Tombstone-HiroTeam [API 4]
+# Tombstone-HiroTeam
+---
 ### About
-![CreateDelCraft (1)](https://user-images.githubusercontent.com/76572999/148062252-5e79d0ae-e910-4e19-88bd-3c2d6f857ad2.png)
+![Tombstone](https://user-images.githubusercontent.com/76572999/130844124-d7aacdb6-f632-473f-9ee5-6b875e61413d.png)
 
 
-[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin allows you delete default crafts and create new craft ! :grin: <br/>
+[ENG] This is a [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) (or forks) plugin allows you to spawn a tombstone when a player dies ! :grin: <br/>
 <br/>
-[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin qui vous permet de supprimer des crafts par defaut et de créer de nouveau craft ! :grin: <br/>
+[FRA] C'est un [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) plugin qui vous permet de faire spawn une tombe quand un joueur meurt ! :grin: <br/>
 
 ---
 ### How to use
-[ENG] Configure in config.yml + explanation directly in</br>
+[ENG] Configure in config.yml</br>
 
-[FRA] Configurer dans le config.yml + explication directement dedans</br>
+[FRA] Configurer dans le config.yml</br>
 
 ---
 ### **This plugin was tested (and works) on:**
@@ -22,11 +23,11 @@
 
 - [ENG] Our team is in partnership with Lordhosting, Minecraft PE server Hosting, VPS hosting use reduction code __**HiroTeam**__ 10% FREE </br>
 -> Website : https://clients.lordhosting.fr </br>
--> Discord : https://discord.gg/mZe6XCwsm9 </br>
+-> Discord : https://discord.gg/BVyF2D4ESt </br>
 
 - [FRA] Notre équipe est en partenariat avec Lordhosting, hébergement de serveurs Minecraft PE, VPS utilise le code de réduction __**HiroTeam**__ 10% DE REDUCTION </br>
 -> Site Web: https://clients.lordhosting.fr </br>
--> Discord : https://discord.gg/mZe6XCwsm9 </br>
+-> Discord : https://discord.gg/BVyF2D4ESt </br>
 ---
 ### Contacts HiroTeam
 
